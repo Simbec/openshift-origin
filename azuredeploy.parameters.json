@@ -18,7 +18,7 @@
 			"value": "managed"
 		},
 		"openshiftClusterPrefix": {
-			"value": "changeme"
+			"value": "okdsbgcps"
 		},
 		"masterInstanceCount": {
 			"value": 3
@@ -33,10 +33,10 @@
 			"value": 128
 		},
 		"adminUsername": {
-			"value": "changeme"
+			"value": "gcspsuser"
 		},
 		"openshiftPassword": {
-			"value": "changeme"
+			"value": "Mph7m5thBLy2SMEze@"
 		},
 		"enableMetrics": {
 			"value": "false"
@@ -45,25 +45,25 @@
 			"value": "false"
 		},
 		"sshPublicKey": {
-			"value": "changeme"
+			"value": "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDO87c2d78rRmrfT+MYtJdbeUzpw6LKn4eYTf+oQvApCTTG5GWmvIBfLGwRLqURe4FmJ/ReNKZ0BeSDer2O8nqTp7jcICcgZxtRhqKziDctZsOPUYWxB+afL+JEZ6DID21tAdiNZ0hKArVm8lsyboBrLyYazHCkk3sCmVhvw7hoe6AxGpfeKfnUa5SPVtLzQvLTBgf8F/qp+SVWXBWoDH+rYayFK/dmrxovQLqBdhZFzf4WztrHQDJvwbYybxdkURv/H+fkzIx4PbSnBU8MSKexUqjBk+rSThgz5lVZX4aHvUZ34wIMpwxUbFjmSuPrqLStZQJ+vRcVJ8G2n8r1xxHt simon@cc-50be9118-756f6b768c-5hpl4"
 		},
 		"keyVaultResourceGroup": {
-			"value": "changeme"
+			"value": "gcpsarolabsb"
 		},
 		"keyVaultName": {
-			"value": "changeme"
+			"value": "keyvaultGCSPSSBARO"
 		},
 		"keyVaultSecret": {
-			"value": "changeme"
+			"value": "keysecretGCPSSBARO"
 		},
 		"enableAzure": {
 			"value": "true"
 		},
 		"aadClientId": {
-			"value": "changeme"
+			"value": "ca952e19-0daa-44a1-84fb-55399f60a228"
 		},
 		"aadClientSecret": {
-			"value": "changeme"
+			"value": "29d10e00-6000-458d-b0db-a10bcdc8ee42"
 		},
 		"defaultSubDomainType": {
 			"value": "nipio"
